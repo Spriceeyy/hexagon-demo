@@ -115,6 +115,11 @@ SAMPLE_POSTCODE_DATA = [
     {"postcode": "PL4 6AB", "lat": 50.3755, "lon": -4.1427, "imd_decile": 3, "region": "England", "users": 18},
     {"postcode": "EX4 4QJ", "lat": 50.7260, "lon": -3.5275, "imd_decile": 5, "region": "England", "users": 14},
     {"postcode": "LL57 2DG", "lat": 53.2274, "lon": -4.1293, "imd_decile": 4, "region": "Wales", "users": 16},
+    
+    # Custom test postcodes - Birmingham & Hereford
+    {"postcode": "B75 6BA", "lat": 52.5597, "lon": -1.8134, "imd_decile": 8, "region": "England", "users": 12},
+    {"postcode": "HR4 9AA", "lat": 52.0567, "lon": -2.7400, "imd_decile": 5, "region": "England", "users": 14},
+    {"postcode": "HR1 3AA", "lat": 52.0544, "lon": -2.7150, "imd_decile": 4, "region": "England", "users": 16},
 ]
 
 
