@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (large)
+*.csv
+*.xlsx
+*.xls
+*.geojson
+ONSPD_FEB_2024_UK/
+multi_csv/
+Indices_of_Deprivation-2025-data_download-file_format=excel/
+
+# Credentials
+user_credentials.json
+*.pem
+*.key
+
+# Logs
+*.log
